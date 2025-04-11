@@ -41,4 +41,4 @@ def ret(reqest):
 
 def ret2(reqest,pk):
 
-    return HttpResponse(f"pass key working;;;{pk}") 
+    return HttpResponse(f"pass key  working well;;;{pk}") 
